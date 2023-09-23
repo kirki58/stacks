@@ -79,5 +79,6 @@ int main(){
     push(16);
     pop();
     printStack();
+    return 0;
 }
 

@@ -73,4 +73,5 @@ int main(){
     stack =  (struct Node*) malloc(sizeof(struct Node));
     push(10);
     printf("%d\n",getTop());
+    return 0;
 }
