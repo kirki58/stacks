@@ -8,6 +8,6 @@ Stacks are abstract data structures, meaning they have no direct implementation,
 
 Most important restriction of Stacks is LIFO(Last In First Out), Like real life examples of stacks you can only add new items to the top (Imagine a stack of dinner plates), and retrieve items from the top these are called push and pop respectively.
 
-![image](https://github.com/kirki58/stacks/assets/129191293/0f524708-d153-40f9-bb50-a107f14ce594)
-
 I've implemented Fixed and Dynamic sized stacks in this project, enjoy.
+
+![image](https://github.com/kirki58/stacks/assets/129191293/ce85e466-3c2e-4088-adc8-516f122ac4cd)
